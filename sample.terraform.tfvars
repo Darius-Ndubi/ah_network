@@ -1,0 +1,7 @@
+aws_access_key = "aws_access_key"
+aws_secret_key = "aws_secret_key"
+key_path = "Path_to_key_pair"
+aws_key_name = "key_name"
+aws_front_ami="ami for the frontend"
+aws_docu_ami="ami for the documentation"
+aws_db_ami="ami for the database"
